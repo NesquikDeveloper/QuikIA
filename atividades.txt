@@ -1,0 +1,2 @@
+{"type":"menu_select","itemId":"159/13","trigger":"on_window_open","delay":0}
+{"type":"command","text":"/register 123456 123456","trigger":"on_join","delay":3000}

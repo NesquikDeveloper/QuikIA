@@ -1,0 +1,15 @@
+{
+  "name": "mc-bots",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Sistema de bots para Minecraft em Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mineflayer": "^4.19.0"
+  }
+}

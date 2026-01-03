@@ -1,0 +1,11 @@
+{
+  "bots": 2,
+  "version": "1.8",
+  "registerPassword": "123456",
+  "namePrefixes": [
+    { "value": "chorapro", "position": "start" },
+    { "value": "BW", "position": "end" },
+    { "value": "luizin", "position": "start" }
+  ],
+  "baseName": "Legit"
+}
