@@ -1,4 +1,4 @@
-# MC Bots (Node.js)
+# QUIK - MC Bots (Node.js)
 
 Sistema de bots para Minecraft focado em praticidade: tudo em um único arquivo `app.js`, com servidores, atividades e configuração em arquivos `.txt`.
 
