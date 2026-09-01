@@ -5,7 +5,9 @@
   "description": "Sistema de bots para Minecraft em Node.js",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "build": "node --check app.js",
+    "test": "node --check app.js"
   },
   "author": "",
   "license": "MIT",
